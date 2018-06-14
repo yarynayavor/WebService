@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Yaryna Yavor",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "geckodriver": "^1.11.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "devDependencies": {
+    "chromedriver": "^2.40.0"
+  }
 }
