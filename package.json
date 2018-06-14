@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "service": "nodemon service.js"
   },
   "author": "Yaryna Yavor",
   "license": "ISC",
@@ -13,6 +13,8 @@
     "selenium-webdriver": "^4.0.0-alpha.1"
   },
   "devDependencies": {
-    "chromedriver": "^2.40.0"
+    "chromedriver": "^2.40.0",
+    "mongodb": "^3.0.10",
+    "nodemon": "^1.17.5"
   }
 }
