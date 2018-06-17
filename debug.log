@@ -1,10 +1,115 @@
-[0614/190712.312:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
-[0614/190712.351:ERROR:exception_snapshot_win.cc(88)] thread ID 8304 not found in process
-[0614/234129.773:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
-[0614/234129.789:ERROR:exception_snapshot_win.cc(88)] thread ID 6904 not found in process
-[0615/000323.243:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
-[0615/000323.244:ERROR:exception_snapshot_win.cc(88)] thread ID 4416 not found in process
-[0615/001013.349:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
-[0615/001013.367:ERROR:exception_snapshot_win.cc(88)] thread ID 5636 not found in process
-[0615/001157.162:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
-[0615/001157.162:ERROR:exception_snapshot_win.cc(88)] thread ID 7452 not found in process
+[0615/111955.436:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0615/111955.455:ERROR:exception_snapshot_win.cc(88)] thread ID 5404 not found in process
+[0616/123813.498:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0616/123813.522:ERROR:exception_snapshot_win.cc(88)] thread ID 1040 not found in process
+[0616/165142.053:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0616/165142.069:ERROR:exception_snapshot_win.cc(88)] thread ID 4828 not found in process
+[0616/171031.944:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0616/171031.966:ERROR:exception_snapshot_win.cc(88)] thread ID 9220 not found in process
+[0616/172142.189:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0616/172142.190:ERROR:exception_snapshot_win.cc(88)] thread ID 4628 not found in process
+[0616/183038.050:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0616/183038.077:ERROR:exception_snapshot_win.cc(88)] thread ID 8236 not found in process
+[0616/215626.759:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0616/215626.759:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0616/215626.759:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0616/215626.839:ERROR:exception_snapshot_win.cc(88)] thread ID 11200 not found in process
+[0616/215626.839:ERROR:exception_snapshot_win.cc(88)] thread ID 11204 not found in process
+[0616/215626.839:ERROR:exception_snapshot_win.cc(88)] thread ID 11208 not found in process
+[0616/215826.611:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.612:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.612:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.612:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.612:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.612:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.612:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.612:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.612:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.612:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.612:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.612:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.612:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.611:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.612:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.612:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.611:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.612:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0616/215826.614:ERROR:exception_snapshot_win.cc(88)] thread ID 9232 not found in process
+[0616/215826.614:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0616/215826.614:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0616/215826.615:ERROR:exception_snapshot_win.cc(88)] thread ID 5820 not found in process
+[0616/215826.615:ERROR:exception_snapshot_win.cc(88)] thread ID 352 not found in process
+[0616/233548.103:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0616/233548.103:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0616/233548.107:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0616/233548.126:ERROR:exception_snapshot_win.cc(88)] thread ID 9980 not found in process
+[0616/233548.126:ERROR:exception_snapshot_win.cc(88)] thread ID 4572 not found in process
+[0616/233548.126:ERROR:exception_snapshot_win.cc(88)] thread ID 11968 not found in process
+[0616/235256.206:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0616/235256.225:ERROR:exception_snapshot_win.cc(88)] thread ID 8584 not found in process
+[0616/235256.226:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0617/081102.903:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0617/081102.904:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0617/081102.916:ERROR:exception_snapshot_win.cc(88)] thread ID 5344 not found in process
+[0617/081102.904:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0617/081102.916:ERROR:exception_snapshot_win.cc(88)] thread ID 7284 not found in process
+[0617/081102.916:ERROR:exception_snapshot_win.cc(88)] thread ID 6528 not found in process
+[0617/083307.105:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.109:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.109:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.151:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.151:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.151:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.151:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.152:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.152:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.152:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.152:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.152:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.152:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.152:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.152:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.152:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0617/083307.152:ERROR:exception_snapshot_win.cc(88)] thread ID 8908 not found in process
+[0617/083307.152:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0617/083307.152:ERROR:exception_snapshot_win.cc(88)] thread ID 4528 not found in process
+[0617/083307.152:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.152:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.152:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.152:ERROR:process_reader_win.cc(151)] SuspendThread: Немає дозволу на доступ. (0x5)
+[0617/083307.152:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0617/083307.153:ERROR:exception_snapshot_win.cc(88)] thread ID 8196 not found in process
+[0617/104009.095:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0617/104009.095:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0617/104009.184:ERROR:exception_snapshot_win.cc(88)] thread ID 10568 not found in process
+[0617/104009.184:ERROR:exception_snapshot_win.cc(88)] thread ID 8136 not found in process
+[0617/115046.291:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0617/115046.343:ERROR:exception_snapshot_win.cc(88)] thread ID 8656 not found in process
+[0617/115046.343:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
