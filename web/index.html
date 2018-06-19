@@ -6,14 +6,32 @@
     <title>WEB</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     
 </head>
 <body>
     <div id="root">
-        <input type="text" placeholder="Filter by name">
-        <button id="add">+Add new</button>
+        <input type="text" id="searchInput" placeholder="Пошук..." onkeyup="searchFunction()">
     </div>
-    
+    <div id="updateItem">
+        <input type="text" id="updateI" placeholder="Новина..." onkeyup="" required>
+        <a id="update" href="#">Зберегти</a>
+    </div>
+    <div id="addNew">
+        <input type="text" id="addN" placeholder="Новина..." onkeyup="" required>
+        <a id="add" href="#">+Додати нову новину</a>
+    </div>
+
+    <div id="subscribeDiv">
+        <form id="contact-form" method="POST" action="/send">
+            <label>Ім'я</label>
+            <input type="text" name="user_name" placeholder="Введіть ваше ім'я...">
+            <label>Email</label>
+            <input type="email" name="user_email" placeholder="Введіть вашу ел.адресу...">
+            <button type="submit">Надіслати</button>
+        </form>
+    </div>
 </body>
 <script src="main.js"></script>
 </html>

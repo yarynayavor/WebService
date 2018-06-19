@@ -16,9 +16,12 @@
     "browser-window": "^0.4.0",
     "cors": "^2.8.4",
     "electron-fetch": "^1.1.0",
+    "emailjs": "^2.1.0",
     "express": "^4.16.3",
     "geckodriver": "^1.11.0",
+    "mailgun-js": "^0.18.0",
     "mongoose": "^5.1.5",
+    "nodemailer": "^4.6.7",
     "selenium-webdriver": "^4.0.0-alpha.1"
   },
   "devDependencies": {
